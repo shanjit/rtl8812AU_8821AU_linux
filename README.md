@@ -1,7 +1,7 @@
 # rtl8812AU_8821AU_linux
 
 
-## Installing on Linux HP Envy 15 laptop for working with the monoproce 1200ACUSB dual adpater
+## Installing on Linux HP Envy 15 laptop for working with the monoproce 1200AC USB wifi dual adpater
 sudo apt-get install linux-headers-generic build-essential git
 
 cd rtl8812AU_8821AU_linux
